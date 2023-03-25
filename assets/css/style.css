@@ -302,7 +302,7 @@ button:active {
     }
 }
 
-@media screen and (max-width: 390px)  {
+@media screen and (max-width: 428px)  {
 
     button {
         width: calc(25% - 10px);
